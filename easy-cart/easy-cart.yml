@@ -1,0 +1,6 @@
+server:
+  port: 6060
+  shutdown: "graceful"
+
+easy-cart:
+  testing: false
